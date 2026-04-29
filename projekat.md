@@ -17,3 +17,5 @@ I onda otiđite na http://localhost:5173 pa cete vidjeti CRUD pocetni
 (Napomena, prvo uvijek aktivirajte backend, pa onda frontend.)
 
 ## Ovaj dio je samo test kako rade grane C:
+
+Ovdje ce pisati komande za grananje
