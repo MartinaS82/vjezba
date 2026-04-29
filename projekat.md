@@ -16,4 +16,12 @@ I onda otiđite na http://localhost:5173 pa cete vidjeti CRUD pocetni
 
 (Napomena, prvo uvijek aktivirajte backend, pa onda frontend.)
 
-## Ovaj dio je samo test kako rade grane C:git
+## Ovaj dio je samo test kako rade grane C:
+
+Na ovom mjestu je izazvan konflikt, no riješen je kompromisom da sada tu stoji ova rečenica!
+
+git checkout -b ovdje-ide-naziv-grane
+
+git branch > ovdje * pokazuje na kojoj smo grani
+
+git checkout naziv-grane > prebacivanje na granu naziv-grane
