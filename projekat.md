@@ -26,5 +26,3 @@ git branch > ovdje * pokazuje na kojoj smo grani
 
 git checkout naziv-grane > prebacivanje na granu naziv-grane
 
-ovdje ja pravim izmjenu..
-ovdje radim sutradan..
